@@ -1,0 +1,11 @@
+[
+  {
+    "name": "HLS",
+    "samples": [
+      {
+        "name": "Widevine Encrypted stream",
+        "uri": "https://testqa.s3.amazonaws.com/dvp/samples/20190809/nbc/SNOWWAYOUT/v011/hls/fmp4/mpeg_cenc/master_wv.m3u8"
+      }
+    ]
+  }
+]
